@@ -1,0 +1,6 @@
+[submodule "domotica_AVR"]
+	path = domotica_AVR
+	url = git@github.com:De-Backer/domotica_AVR.git
+[submodule "domotica_eeprom_app"]
+	path = domotica_eeprom_app
+	url = git@github.com:De-Backer/domotica_eeprom_app.git
